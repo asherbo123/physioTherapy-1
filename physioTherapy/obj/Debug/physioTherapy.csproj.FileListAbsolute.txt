@@ -1,0 +1,2 @@
+C:\Users\aamus\Downloads\physioTherapy\physioTherapy\physioTherapy\obj\Debug\physioTherapy.csproj.AssemblyReference.cache
+C:\Users\aamus\Downloads\physioTherapy\physioTherapy\physioTherapy\obj\Debug\physioTherapy.csproj.SuggestedBindingRedirects.cache
